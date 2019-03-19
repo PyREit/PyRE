@@ -19,4 +19,4 @@ $(window).scroll(function() {
 	  }
 });
 
-setTimeout(function showModal() {$('#provvisorio').modal('show');}, 2500);
+//setTimeout(function showModal() {$('#provvisorio').modal('show');}, 2500);
